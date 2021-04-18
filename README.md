@@ -1,4 +1,4 @@
-# id_card_tool
+# ID Card Tool
 
 Python script for making simple ID cards.
 
